@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+	int asd[15];
+	scanf("");
+	printf("\n%d", asd[9]);
+
+}
